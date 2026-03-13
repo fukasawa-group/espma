@@ -1,0 +1,25 @@
+# -------------------------------------------------------
+# Standard pip dependencies
+# -------------------------------------------------------
+numpy
+torch
+h5py
+scikit-learn
+torchsampler
+tqdm
+biopython
+matplotlib
+pandas
+scipy
+fair-esm   # imported as `esm`; install with: pip install fair-esm
+
+# -------------------------------------------------------
+# External library — install separately
+# dMaSIF is NOT on PyPI. Clone the repository and make it
+# importable before running run_dMaSIF.py:
+#
+#   git clone https://github.com/FreyrS/dMaSIF.git
+#   # then add dMaSIF/ to your PYTHONPATH, or place the
+#   # cloned directory next to this project root so that
+#   # `from dMaSIF.model import dMaSIF` resolves correctly.
+# -------------------------------------------------------
