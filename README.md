@@ -80,4 +80,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/fukasawa-group/prsurflm.git
-cd REPO_NAME
+cd prsurflm
