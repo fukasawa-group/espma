@@ -15,7 +15,7 @@ For quick access to the available Colab notebooks, see [Quick Start](#quick-star
 
 ## Overview
 
-This repository contains the current public codebase for the **Pr-*** project (working title), a model for **classifying biological and non-biological interfaces**.
+This repository contains the current public codebase for the ***ESpma*** project (working title), a model for **classifying biological and non-biological interfaces**.
 
 It is designed to:
 
@@ -43,7 +43,7 @@ This repository provides:
 
 ### Open in Colab
 
-You can try the current **ESpma*** implementation directly in Google Colab without local installation.
+You can try the current ***ESpma*** implementation directly in Google Colab without local installation.
 Two notebook variants are provided:
 
 #### Integrated variant
